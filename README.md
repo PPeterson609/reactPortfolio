@@ -1,8 +1,18 @@
-# React + Vite
+## reactPortfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Overview
+    - This project is a single-page application (SPA) designed to showcase the portfolio of a web developer. It features sections such as About Me, Portfolio, Contact, and Resume, providing comprehensive information and interaction points for visitors.
 
-Currently, two official plugins are available:
+## Description 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ - **Home**: Explore my portfolio and learn about my journey and - projects. Connect with me here!
+ - **About Me**: Learn about my background, education, and journey into coding.
+- **Projects**: See details of my projects, including technologies used, GitHub repositories, and live sites.
+- **Contact**: Connect with me via LinkedIn, GitHub, or email.
+- **Resume**: Download a PDF of my professional resume.
+
+## About the Author
+
+- **Name**: Patrick Peterson
+- **Location**: New York
+- **GitHub**: [Patrick Peterson ](https://github.com/Ppeterson609)
